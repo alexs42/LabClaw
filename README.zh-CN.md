@@ -1,8 +1,8 @@
-# LabClaw Library
+# LabClaw – Skill Operating Layer for Stanford LabOS & Next-Gen AI Co-Scientists
 
 <div align="center">
 
-**为 OpenClaw 提供 211 个面向生物医学自主研究的生产级技能**
+**为 OpenClaw / LabOS 提供 211 个面向生物医学自主研究的生产级技能**
 
 [![Skills](https://img.shields.io/badge/skills-211-blue?style=flat-square)](skills/)
 [![Biology](https://img.shields.io/badge/🧬_biology-66-brightgreen?style=flat-square)](skills/bio/)
