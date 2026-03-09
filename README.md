@@ -558,7 +558,7 @@ Every `SKILL.md` follows a consistent structure:
 
 ## Credits
 
-Skills curated by Yingcheng (Charles) Wu, Ollie Jian, Zhe Zhao at Le Cong Lab of Stanford & Mengdi Wang Lab at Princeton.
+Skills curated by Yingcheng (Charles) Wu, Jinglin Jian, Zhe Zhao at Le Cong Lab of Stanford & Mengdi Wang Lab at Princeton.
 
 ## License
 
