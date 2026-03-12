@@ -568,6 +568,8 @@ Every `SKILL.md` follows a consistent structure:
 
 Skills curated by Yingcheng (Charles) Wu, Jinglin Jian, Zhe Zhao at Le Cong Lab of Stanford & Mengdi Wang Lab at Princeton.
 
+We really thank [K-Dense](https://www.k-dense.ai/) for the support.
+
 ## License
 
 [MIT License](LICENSE)
