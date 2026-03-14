@@ -1,4 +1,4 @@
-# LabClaw – Skill Operating Layer for Stanford LabOS & Next-Gen AI Co-Scientists
+# LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)
 
 <div align="center">
 
