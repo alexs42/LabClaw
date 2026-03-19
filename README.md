@@ -22,7 +22,7 @@
 
 <br>
 
-**☕ Support our research (Base):** `0x41060E28a182C2CA5ff66C6D3de70D90a9d83a98`
+**☕ Support our research (BNB):** `0xc9D0E3Ad672C6a7DeeA69366D86fd3BF75a393de`
 
 **☕ Support our research (Solana):** `6MKtYQYvn7k6PiTEE3N22wu6LoB36XVC2SoRqdL3bFom`
 
